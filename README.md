@@ -17,6 +17,7 @@
 
 ### ✍️ Roadmap Progress
 [![roadmap.sh](https://roadmap.sh/card/wide/662ea19d33b0bd83e72ffd20?variant=dark&roadmaps=javascript)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/662ea19d33b0bd83e72ffd20?variant=dark&roadmaps=javascript)](https://roadmap.sh)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

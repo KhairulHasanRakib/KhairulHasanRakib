@@ -48,9 +48,6 @@
   <a href="https://www.reddit.com/user/Khairul-Hasan-Rakib">
     <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white" alt="Reddit" />
   </a>
-  <a href="https://codepen.io/Khairul-Hasan-Rakib">
-    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="Codepen" />
-  </a>
 </p>
 
 ## 🏆 GitHub Trophies

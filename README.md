@@ -1,38 +1,3 @@
-<p align="center">
-  <a href="https://stars.github.com/profiles/KhairulHasanRakib/">
-    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
-</p>
-
-<p align="center">
-<!--   <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/>
-  </a> -->
-<!--   <a href="https://www.youtube.com/c/DevProTips">
-    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/>  </a>  -->
-  <a href="https://github.com/KhairulHasanRakib?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/KhairulHasanRakib?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-  <a href="https://github.com/KhairulHasanRakib?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/KhairulHasanRakib?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-</p>
-
-&nbsp;<div align="center">
-  [![Listen on Jamendo](https://img.shields.io/badge/Listen%20on%20Jamendo-FF5A00?style=flat-square&logo=jamendo&logoColor=white)](http://jamen.do/t/1858613)
-</div>
-
-<h3>💻 GitHub Profile Stats</h3>
-  <a href="https://github.com/KhairulHasanRakib"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=KhairulHasanRakib&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-## 🗂️ Highlight Projects
-<div align="center">
-<a href="https://github.com/KhairulHasanRakib/99DaysWithCPC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KhairulHasanRakib&repo=99DaysWithCPC&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
-</a>
-
-<a href="https://github.com/KhairulHasanRakib/Project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KhairulHasanRakib&repo=Project&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
-</a>
-</div>
-<br/>
 <div align="center">
 <p>
   <a href="https://www.patreon.com/KhairulHasanRakib">
@@ -106,7 +71,41 @@
 <p>
   <img src="https://github-contributor-stats.vercel.app/api?username=KhairulHasanRakib&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
 </p>
+<p align="center">
+  <a href="https://stars.github.com/profiles/KhairulHasanRakib/">
+    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
+</p>
 
+<p align="center">
+<!--   <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/>
+  </a> -->
+<!--   <a href="https://www.youtube.com/c/DevProTips">
+    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/>  </a>  -->
+  <a href="https://github.com/KhairulHasanRakib?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/KhairulHasanRakib?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/KhairulHasanRakib?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/KhairulHasanRakib?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+</p>
+
+&nbsp;<div align="center">
+  [![Listen on Jamendo](https://img.shields.io/badge/Listen%20on%20Jamendo-FF5A00?style=flat-square&logo=jamendo&logoColor=white)](http://jamen.do/t/1858613)
+</div>
+
+<h3>💻 GitHub Profile Stats</h3>
+  <a href="https://github.com/KhairulHasanRakib"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=KhairulHasanRakib&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+## 🗂️ Highlight Projects
+<div align="center">
+<a href="https://github.com/KhairulHasanRakib/99DaysWithCPC">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KhairulHasanRakib&repo=99DaysWithCPC&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+</a>
+
+<a href="https://github.com/KhairulHasanRakib/Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KhairulHasanRakib&repo=Project&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
+</a>
+</div>
+<br/>
 <h2>📱 Connect with Me</h2>
 <div align="center">
   <a href="https://www.facebook.com/khairulhasanrakib" target="_blank">

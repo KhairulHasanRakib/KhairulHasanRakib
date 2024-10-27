@@ -1,3 +1,9 @@
+<!--
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KhairulHasanRakib&layout=compact&theme=tokyonight" alt="WakaTime stats - Tokyo Night" />
+</p>
+-->
+
 <div align="center">
 <p>
   <a href="https://www.patreon.com/KhairulHasanRakib">

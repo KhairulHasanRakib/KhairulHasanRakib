@@ -1,4 +1,18 @@
 <!--
+![CodinGame](https://www.codingame.com/profile/yourusername/badge)
+
+![Stack Overflow](https://stackoverflow-badge.vercel.app/api?user=yourid)
+
+
+![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=yourusername&redirect=true)
+
+![Hashnode](https://hashnode.com/badge/yourusername/badge-url)
+
+![Kaggle](https://www.kaggle.com/yourusername/badges)
+
+![GitLab Activity](https://gitlab.com/khairulhasanrakib)
+-->
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KhairulHasanRakib&layout=compact&theme=tokyonight" alt="WakaTime stats - Tokyo Night" />
 </p>
@@ -25,7 +39,14 @@
 
 <h2>⚡ Leetcode Info ⚡</h2>
 <p>
-  <img src="https://leetcard.jacoblin.cool/khairulhasanrakib?theme=dark&font=Nunito&ext=heatmap" alt="Leetcode Info" />
+<!--   <img src="https://leetcard.jacoblin.cool/khairulhasanrakib?theme=dark&font=Nunito&ext=heatmap" alt="Leetcode Info" /> -->
+  <img src="https://leetcard.jacoblin.cool/khairulhasanrakib?theme=dark" />
+</p>
+<p align="center">
+  <img src="https://www.codewars.com/users/KhairulHasanRakib/badges/large" alt="Codewars" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KhairulHasanRakib&layout=compact&theme=react" alt="WakaTime" />
 </p>
 
 ## 🌐 Socials:

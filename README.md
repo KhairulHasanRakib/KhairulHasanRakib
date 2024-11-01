@@ -87,7 +87,8 @@
   <a href="https://roadmap.sh">
 <!--     <img src="https://roadmap.sh/card/wide/662ea19d33b0bd83e72ffd20?variant=dark&roadmaps=javascript" alt="Roadmap" /> -->
     <img src="https://roadmap.sh/card/wide/662ea19d33b0bd83e72ffd20?variant=dark" alt="Roadmap" />
-  </a>
+  </a> <br>
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/662ea19d33b0bd83e72ffd20?variant=dark" alt="roadmap.sh"/></a>
 </p>
 
 ### ✍️ Random Dev Quote

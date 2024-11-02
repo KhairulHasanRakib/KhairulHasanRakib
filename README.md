@@ -1,4 +1,23 @@
 <!--
+![](https://raw.githubusercontent.com/KhairulHasanRakib/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/KhairulHasanRakib/cf-stats/main/output/light_card.svg)
+
+# Codeforces Stat Visualization
+
+<a href="https://github.com/sudiptob2/cf-stats">
+<img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
+</a>
+<br/>
+
+<h3 align="left">Contest Rating:</h3>
+ <a href="https://codeforces.com/profile/khairulhasanrakib"><img height="230px" src="https://raw.githubusercontent.com/KhairulHasanRakib/cf-stats/main/output/light_card.svg#gh-dark-mode-only" alt="Statistics"/> </a>
+-->
+<!--
+<p><img align="center" src="https://leetcard.jacoblin.cool/khairulhasanrakib?theme=dark&font=Raleway&ext=activity" alt="Khairul Hasan Rakib" /></p>
+-->
+
+
+<!--
 ![CodinGame](https://www.codingame.com/profile/yourusername/badge)
 
 ![Stack Overflow](https://stackoverflow-badge.vercel.app/api?user=yourid)

@@ -1,3 +1,5 @@
+
+
 <!--
 <p align="center">
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/khairulhasanrakib?theme=dark&font=Nunito&ext=heatmap" />  
@@ -43,6 +45,10 @@
 -->
 
 <div align="center">
+<a href="https://github.com/KhairulHasanRakib/"><img src="https://i.imgur.com/e62S1EV.png"/></a>
+</div> <br>
+
+<div align="center">
 <p>
   <a href="https://www.patreon.com/KhairulHasanRakib">
     <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon" />
@@ -52,11 +58,12 @@
 [![](https://visitcount.itsvg.in/api?id=KhairulHasanRakib&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1500&size=40&pause=1000&width=805&height=65&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Khairul+Hasan+Rakib" alt="Typing SVG" /></a>
+<a href="https://github.com/KhairulHasanRakib/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1500&size=40&pause=1000&width=805&height=65&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Khairul+Hasan+Rakib" alt="Typing SVG" /></a>
 </div>
 
+<!--
 # 👋 Hi there, I'm Khairul Hasan Rakib
-
+-->
 <h2>⚡ Current Stats ⚡</h2>
 <br>
 <div align="center">

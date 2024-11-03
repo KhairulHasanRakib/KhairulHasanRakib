@@ -51,6 +51,10 @@
 
 [![](https://visitcount.itsvg.in/api?id=KhairulHasanRakib&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1500&size=40&pause=1000&width=805&height=65&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Khairul+Hasan+Rakib" alt="Typing SVG" /></a>
+</div>
+
 # 👋 Hi there, I'm Khairul Hasan Rakib
 
 <h2>⚡ Current Stats ⚡</h2>

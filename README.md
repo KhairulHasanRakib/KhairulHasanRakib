@@ -1,61 +1,143 @@
 
+<table>
+  <tr>
+    <th align="center">For user accounts</th>
+    <th align="center">For organization accounts</th>
+  </tr>
+  <tr>
+    <td align="center">
+<img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg" alt=""></img>
+</td>
+<td align="center">
+<img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.organization.svg" alt=""></img>
+</td>
+  </tr>
+  <tr>
+    <th><a href="source/plugins/isocalendar/README.md">📅 Isometric commit calendar</a></th>
+    <th><a href="source/plugins/languages/README.md">🈷️ Languages activity</a></th>
+  </tr>
+  <tr>
+        <td  align="center">
+        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg" alt=""></img>
+        <img width="900" height="1" alt="">
+      </td>
+        <td  align="center">
+        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.indepth.svg" alt=""></img>
+        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.recent.svg" alt=""></img>
+      </td>
+  </tr>
+  <tr>
+    <th><a href="source/plugins/stargazers/README.md">✨ Stargazers</a></th>
+    <th><a href="source/plugins/lines/README.md">👨‍💻 Lines of code changed</a></th>
+  </tr>
+  <tr>
+        <td  align="center">
+            <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stargazers.worldmap.svg" alt=""></img>
+        <img width="900" height="1" alt="">
+      </td>
+        <td  align="center">
+            <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stargazers.svg" alt=""></img>
+            <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.lines.svg" alt=""></img>
+            <img width="900" height="1" alt="">
+      </td>
+  </tr>
+  <tr>
+    <th><a href="source/plugins/topics/README.md">📌 Starred topics</a></th>
+    <th><a href="source/plugins/stars/README.md">🌟 Recently starred repositories</a></th>
+  </tr>
+  <tr>
+        <td  align="center">
+        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.topics.icons.svg" alt=""></img>
+        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.topics.svg" alt=""></img>
+        <img width="900" height="1" alt="">
+      </td>
+        <td  align="center">
+        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stars.svg" alt=""></img>
+        <img width="900" height="1" alt="">
+      </td>
+  </tr>
+  <tr>
+    <th><a href="source/plugins/licenses/README.md">📜 Repository licenses</a></th>
+    <th><a href="source/plugins/habits/README.md">💡 Coding habits and activity</a></th>
+  </tr>
+  <tr>
+        <td  align="center">
+        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.licenses.svg" alt=""></img>
+        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.licenses.ratio.svg" alt=""></img>
+        <img width="900" height="1" alt="">
+      </td>
+        <td  align="center">
+        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.habits.charts.svg" alt=""></img>
+        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.habits.facts.svg" alt=""></img>
+        <img width="900" height="1" alt="">
+      </td>
+  </tr>
+  <tr>
+    <th><a href="source/plugins/contributors/README.md">🏅 Repository contributors</a></th>
+    <th><a href="source/plugins/followup/README.md">🎟️ Follow-up of issues and pull requests</a></th>
+  </tr>
+  <tr>
+        <td  align="center">
+        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.contributors.categories.svg" alt=""></img>
+        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.contributors.contributions.svg" alt=""></img>
+        <img width="900" height="1" alt="">
+      </td>
+        <td  align="center">
+        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.followup.indepth.svg" alt=""></img>
+        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.followup.svg" alt=""></img>
+        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.followup.user.svg" alt=""></img>
+        <img width="900" height="1" alt="">
+      </td>
+  </tr>
+  
+  <tr>
+    <th><a href="source/plugins/pagespeed/README.md">⏱️ Google PageSpeed</a></th>
+  </tr>
+  <tr>
+        <td  align="center">
+            <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.pagespeed.svg" alt=""></img>
+      </td>
+  </tr>
 
-<!--
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KhairulHasanRakib)  
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
--->
-
-<!--
-
-<p>
-    <a href="https://vaunt.dev">
-        <img src="https://api.vaunt.dev/v1/github/entities/KhairulHasanRakib/contributions?format=svg" width="350" title="Includes public contributions"/>
-    </a>
-</p>
-
-<p align="center">
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/khairulhasanrakib?theme=dark&font=Nunito&ext=heatmap" />  
-</p>
--->
-<!--
-![](https://raw.githubusercontent.com/KhairulHasanRakib/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/KhairulHasanRakib/cf-stats/main/output/light_card.svg)
-
-# Codeforces Stat Visualization
-
-<a href="https://github.com/sudiptob2/cf-stats">
-<img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
-</a>
-<br/>
-
-<h3 align="left">Contest Rating:</h3>
- <a href="https://codeforces.com/profile/khairulhasanrakib"><img height="230px" src="https://raw.githubusercontent.com/KhairulHasanRakib/cf-stats/main/output/light_card.svg#gh-dark-mode-only" alt="Statistics"/> </a>
--->
-<!--
-<p><img align="center" src="https://leetcard.jacoblin.cool/khairulhasanrakib?theme=dark&font=Raleway&ext=activity" alt="Khairul Hasan Rakib" /></p>
--->
+  <tr>
+    <th><a href="source/plugins/wakatime/README.md">⏰ WakaTime</a></th>
+      <th><a href="source/plugins/leetcode/README.md">🗳️ Leetcode</a></th>
+  </tr>
+  <tr>
+        <td  align="center">
+        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.wakatime.svg" alt=""></img>
+        <img width="900" height="1" alt="">
+      </td>
+      <th  align="center">
+        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.leetcode.svg" alt=""></img>
+      </th>
+  </tr>
+  
+  
+  <tr>
+    <th><a href="/source/templates/classic/README.md">📗 Classic template</a></th>
+    <th><a href="/source/templates/repository/README.md">📘 Repository template</a></th>
+  </tr>
+  <tr>
+        <td  align="center">
+        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg" alt=""></img>
+        <img width="900" height="1" alt="">
+      </td>
+        <td  align="center">
+        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.repository.svg" alt=""></img>
+        <img width="900" height="1" alt="">
+      </td>
+  </tr>
+</table>
 
 
-<!--
-![CodinGame](https://www.codingame.com/profile/yourusername/badge)
-
-![Stack Overflow](https://stackoverflow-badge.vercel.app/api?user=yourid)
 
 
-![Spotify](https://spotify-github-profile.vercel.app/api/view.svg?uid=yourusername&redirect=true)
 
-![Hashnode](https://hashnode.com/badge/yourusername/badge-url)
 
-![Kaggle](https://www.kaggle.com/yourusername/badges)
 
-![GitLab Activity](https://gitlab.com/khairulhasanrakib)
--->
-<!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=KhairulHasanRakib&layout=compact&theme=tokyonight" alt="WakaTime stats - Tokyo Night" />
-</p>
--->
+
+
 
 <div align="center">
 <a href="https://github.com/KhairulHasanRakib/"><img src="https://i.imgur.com/e62S1EV.png"/></a>

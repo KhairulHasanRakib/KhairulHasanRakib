@@ -1,6 +1,8 @@
+<!--
 <div align="center">
 <a href="https://github.com/KhairulHasanRakib/"><img src="https://i.imgur.com/e62S1EV.png"/></a>
 </div> <br>
+-->
 
 <div align="center">
 <p>

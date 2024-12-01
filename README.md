@@ -21,6 +21,8 @@
 # 👋 Hi there, I'm Khairul Hasan Rakib
 -->
 <h2>⚡ Current Stats ⚡</h2>
+<img src="https://tryhackme-badges.s3.amazonaws.com/khairulhasanrakib.png" alt="Your Image Badge" />
+
 <br>
 <div align="center">
   <img width="390" height="200" src="https://streak-stats.demolab.com/?user=KhairulHasanRakib&count_private=true&theme=react&border_radius=5" alt="Streak Stats"/><br>

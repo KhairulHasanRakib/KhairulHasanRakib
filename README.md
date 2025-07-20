@@ -1,9 +1,3 @@
-<!--
-<div align="center">
-<a href="https://github.com/KhairulHasanRakib/"><img src="https://i.imgur.com/e62S1EV.png"/></a>
-</div> <br>
--->
-
 <div align="center">
 <p>
   <a href="https://www.patreon.com/KhairulHasanRakib">
@@ -17,11 +11,11 @@
 <a href="https://github.com/KhairulHasanRakib/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1500&size=40&pause=1000&width=805&height=65&lines=%F0%9F%91%8B+Hi+there%2C+I'm+Khairul+Hasan+Rakib" alt="Typing SVG" /></a>
 </div>
 
-<!--
-# 👋 Hi there, I'm Khairul Hasan Rakib
--->
 <h2>⚡ Current Stats ⚡</h2>
 <img src="https://tryhackme-badges.s3.amazonaws.com/khairulhasanrakib.png" alt="Your Image Badge" />
+
+
+![summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhairulHasanRakib&theme=monokai)
 
 
 <br>
@@ -33,7 +27,6 @@
 
 <h2>⚡ Leetcode Info ⚡</h2>
 <p>
-<!--   <img src="https://leetcard.jacoblin.cool/khairulhasanrakib?theme=dark&font=Nunito&ext=heatmap" alt="Leetcode Info" /> -->
   <img src="https://leetcard.jacoblin.cool/khairulhasanrakib?theme=dark" />
 </p>
 <p align="center">
@@ -52,9 +45,6 @@
   </div>
 </div>
 
-<!--
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/KhairulHasanRakib/contributions?format=svg&private=true)  
--->
 
 ## 🌐 Socials:
 <p>
@@ -92,7 +82,6 @@
 ### ✍️ Roadmap Progress
 <p>
   <a href="https://roadmap.sh">
-<!--     <img src="https://roadmap.sh/card/wide/662ea19d33b0bd83e72ffd20?variant=dark&roadmaps=javascript" alt="Roadmap" /> -->
     <img src="https://roadmap.sh/card/wide/662ea19d33b0bd83e72ffd20?variant=dark" alt="Roadmap" />
   </a> <br>
   <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/662ea19d33b0bd83e72ffd20?variant=dark" alt="roadmap.sh"/></a>
@@ -113,11 +102,6 @@
 </p>
 
 <p align="center">
-<!--   <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/>
-  </a> -->
-<!--   <a href="https://www.youtube.com/c/DevProTips">
-    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/>  </a>  -->
   <a href="https://github.com/KhairulHasanRakib?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/KhairulHasanRakib?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/KhairulHasanRakib?tab=followers">
@@ -142,149 +126,6 @@
 </a>
 </div>
 <br/>
-
-
-
-
-<!--
-
-
-<table>
-  <tr>
-    <th align="center">For user accounts</th>
-    <th align="center">For organization accounts</th>
-  </tr>
-  <tr>
-    <td align="center">
-<img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg" alt=""></img>
-</td>
-<td align="center">
-<img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.organization.svg" alt=""></img>
-</td>
-  </tr>
-  <tr>
-    <th><a href="source/plugins/isocalendar/README.md">📅 Isometric commit calendar</a></th>
-    <th><a href="source/plugins/languages/README.md">🈷️ Languages activity</a></th>
-  </tr>
-  <tr>
-        <td  align="center">
-        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg" alt=""></img>
-        <img width="900" height="1" alt="">
-      </td>
-        <td  align="center">
-        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.indepth.svg" alt=""></img>
-        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.languages.recent.svg" alt=""></img>
-      </td>
-  </tr>
-  <tr>
-    <th><a href="source/plugins/stargazers/README.md">✨ Stargazers</a></th>
-    <th><a href="source/plugins/lines/README.md">👨‍💻 Lines of code changed</a></th>
-  </tr>
-  <tr>
-        <td  align="center">
-            <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stargazers.worldmap.svg" alt=""></img>
-        <img width="900" height="1" alt="">
-      </td>
-        <td  align="center">
-            <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stargazers.svg" alt=""></img>
-            <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.lines.svg" alt=""></img>
-            <img width="900" height="1" alt="">
-      </td>
-  </tr>
-  <tr>
-    <th><a href="source/plugins/topics/README.md">📌 Starred topics</a></th>
-    <th><a href="source/plugins/stars/README.md">🌟 Recently starred repositories</a></th>
-  </tr>
-  <tr>
-        <td  align="center">
-        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.topics.icons.svg" alt=""></img>
-        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.topics.svg" alt=""></img>
-        <img width="900" height="1" alt="">
-      </td>
-        <td  align="center">
-        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.stars.svg" alt=""></img>
-        <img width="900" height="1" alt="">
-      </td>
-  </tr>
-  <tr>
-    <th><a href="source/plugins/licenses/README.md">📜 Repository licenses</a></th>
-    <th><a href="source/plugins/habits/README.md">💡 Coding habits and activity</a></th>
-  </tr>
-  <tr>
-        <td  align="center">
-        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.licenses.svg" alt=""></img>
-        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.licenses.ratio.svg" alt=""></img>
-        <img width="900" height="1" alt="">
-      </td>
-        <td  align="center">
-        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.habits.charts.svg" alt=""></img>
-        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.habits.facts.svg" alt=""></img>
-        <img width="900" height="1" alt="">
-      </td>
-  </tr>
-  <tr>
-    <th><a href="source/plugins/contributors/README.md">🏅 Repository contributors</a></th>
-    <th><a href="source/plugins/followup/README.md">🎟️ Follow-up of issues and pull requests</a></th>
-  </tr>
-  <tr>
-        <td  align="center">
-        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.contributors.categories.svg" alt=""></img>
-        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.contributors.contributions.svg" alt=""></img>
-        <img width="900" height="1" alt="">
-      </td>
-        <td  align="center">
-        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.followup.indepth.svg" alt=""></img>
-        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.followup.svg" alt=""></img>
-        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.followup.user.svg" alt=""></img>
-        <img width="900" height="1" alt="">
-      </td>
-  </tr>
-  
-  <tr>
-    <th><a href="source/plugins/pagespeed/README.md">⏱️ Google PageSpeed</a></th>
-  </tr>
-  <tr>
-        <td  align="center">
-            <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.pagespeed.svg" alt=""></img>
-      </td>
-  </tr>
-
-  <tr>
-    <th><a href="source/plugins/wakatime/README.md">⏰ WakaTime</a></th>
-      <th><a href="source/plugins/leetcode/README.md">🗳️ Leetcode</a></th>
-  </tr>
-  <tr>
-        <td  align="center">
-        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.wakatime.svg" alt=""></img>
-        <img width="900" height="1" alt="">
-      </td>
-      <th  align="center">
-        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.leetcode.svg" alt=""></img>
-      </th>
-  </tr>
-  
-  
-  <tr>
-    <th><a href="/source/templates/classic/README.md">📗 Classic template</a></th>
-    <th><a href="/source/templates/repository/README.md">📘 Repository template</a></th>
-  </tr>
-  <tr>
-        <td  align="center">
-        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg" alt=""></img>
-        <img width="900" height="1" alt="">
-      </td>
-        <td  align="center">
-        <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.repository.svg" alt=""></img>
-        <img width="900" height="1" alt="">
-      </td>
-  </tr>
-</table>
-
-
--->
-
-
-
 
 
 <h2>📱 Connect with Me</h2>
